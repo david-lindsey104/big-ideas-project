@@ -9,4 +9,4 @@ Why GNU General Public License v3?
 We chose this license since it allows people to use our project for anything OTHER than distributing closed source versions. It's an academic project and we aren't going to gatekeep it.
 
 Code of Conduct:
-We chose the code of conduct created by Coraline Ehmke because it displayed 
+We chose the code of conduct created by Coraline Ehmke because we believed in the messages that were being spread through it. Treat others respectfully.
